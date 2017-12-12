@@ -1,4 +1,4 @@
 # silver-disco
 Hello World!
 
-Tolle Karte.
+Leckere Suppe für die Truppe.
